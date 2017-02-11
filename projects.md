@@ -1,6 +1,5 @@
 ---
-layout: post
 title: Projects
 ---
 
-Some projects
+Some projects.
