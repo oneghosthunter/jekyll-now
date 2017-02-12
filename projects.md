@@ -3,7 +3,7 @@ title: Projects
 ---
 ### Jekyll
 
-I launched this website.
+Website supported by Jekyll.
 
 
 
