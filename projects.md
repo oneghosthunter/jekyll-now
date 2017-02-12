@@ -10,7 +10,7 @@ I launched this website.
 ### European Routes:
 
 We used a source that told us which european route was connected with a city.
-{% video route.mp4 %}
+![Step 1](/images/route.gif "Step 1")
 
 ### New Title
 
